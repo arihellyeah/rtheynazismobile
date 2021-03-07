@@ -10,6 +10,7 @@ target 'rtheynazisapp' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+
   # Uncomment the code below to enable Flipper.
   #
   # You should not install Flipper in CI environments when creating release

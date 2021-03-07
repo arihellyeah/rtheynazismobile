@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>549335302640-3tcgc4gvlnd5ch4b11p6ob8bebjt0lj5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.549335302640-3tcgc4gvlnd5ch4b11p6ob8bebjt0lj5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvgx-wJ6W3q-5kywwLYgXU-lxrXYAkGcQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>549335302640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rtheynazisapp</string>
+	<key>PROJECT_ID</key>
+	<string>are-they-nazis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>are-they-nazis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:549335302640:ios:0807be3d821bdfbf699d35</string>
+	<key>DATABASE_URL</key>
+	<string>https://are-they-nazis-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

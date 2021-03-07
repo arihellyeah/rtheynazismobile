@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549335302640",
+    "firebase_url": "https://are-they-nazis-default-rtdb.firebaseio.com",
+    "project_id": "are-they-nazis",
+    "storage_bucket": "are-they-nazis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549335302640:android:329988e0f906a249699d35",
+        "android_client_info": {
+          "package_name": "com.rtheynazisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549335302640-ln7rs66ddtuq0cu1cdbb4qp7eu8qkgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OAm5roQocyaIxY8CG1Hn1G7hNppNooI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549335302640-ln7rs66ddtuq0cu1cdbb4qp7eu8qkgvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
